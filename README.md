@@ -3,14 +3,14 @@
 
 ---
 
-## Summary
-Recent Computer Science graduate with a strong foundation in machine learning, data engineering, backend development, and design. Experienced in building deep learning models, data pipelines, modern cloud/data tools, and user-centric interfaces. Passionate about applying technical and design skills to solve real-world problems and eager to take on new challenges in data engineering, AI, and product design.
+## About Me
+Recent Computer Science graduate with a strong foundation in machine learning, data, front-end development, and design.
 
 ---
 
 ## Technical Skills
 - **Machine Learning/Deep Learning:** PyTorch, scikit-learn, XLM-RoBERTa
-- **Data/Backend:** SQL, PostgreSQL, pgAdmin, Docker, Kestra, Terraform
+- **Data/Backend:** SQL, Postman, PostgreSQL, pgAdmin, Docker, Kestra, Terraform
 - **Frontend:** ReactJS, Tailwind
 - **Programming:** Python, Java
 - **Design:** UI/UX principles, wireframing, prototyping (Figma)
@@ -34,15 +34,15 @@ Developed a sarcasm detection model for Filipino-English code-switched text usin
 ## Other Projects
 
 - **Lexical & Syntax Analyzer:** Implemented in Python, parses and analyses text for lexical and syntactic correctness.
-- **Adaptive Traffic Simulator:** Built using Pygame to simulate dynamic traffic patterns.
-- **FamilyVault:** Basic Java app for e-document storage and management, designed user-friendly interface for document access.
+- **Adaptive Traffic Simulator:** Built using Pygame to simulate traffic with traffic flow optimization algorithm and emergency vehicle prioritizer.
+- **FamilyVault:** Basic Java app for local e-document storage and management.
 - **Anime Dataset ETL & Analysis:** Jupyter notebook pipeline for extracting, transforming, and analyzing anime data with three key insights/visualizations.
 
 ---
 
 ## Education
 **Bachelor of Science in Computer Science**  
-[Your University], 2025
+PUP, 2025
 
 ---
 
