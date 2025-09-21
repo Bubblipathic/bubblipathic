@@ -11,8 +11,9 @@ Recent Computer Science graduate with a strong foundation in machine learning, d
 ## Technical Skills
 - **Machine Learning/Deep Learning:** PyTorch, scikit-learn, XLM-RoBERTa
 - **Data/Backend:** SQL, PostgreSQL, pgAdmin, Docker, Kestra, Terraform
+- **Frontend:** ReactJS, Tailwind
 - **Programming:** Python, Java
-- **Design:** UI/UX principles, wireframing, prototyping (Figma/Adobe XD or specify tools used)
+- **Design:** UI/UX principles, wireframing, prototyping (Figma)
 - **Other:** Git, Linux, Jupyter Notebook
 
 ---
@@ -27,7 +28,6 @@ Developed a sarcasm detection model for Filipino-English code-switched text usin
 
 ### [Planned Data Engineering Project]  
 *Description/Title Placeholder*  
-*Leave this space for your upcoming major Data Engineering project.*
 
 ---
 
@@ -48,9 +48,3 @@ Developed a sarcasm detection model for Filipino-English code-switched text usin
 
 ## Interests
 - Playing and buying games
-- Design and creative technology
-
----
-
-## References
-Available upon request
