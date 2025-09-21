@@ -1,6 +1,5 @@
-# [Your Name]
+# REARIO, JAY
 **Bachelor of Science in Computer Science, 2025**  
-[Your Email] | [Your Phone] | [LinkedIn/GitHub]
 
 ---
 
